@@ -4,3 +4,4 @@ this is a GO language file
 if you want to crate your Wordlist for Date than  || First set Year from source file like I defined year var l || Change var l to any year like 2021,2022 etc....
 after changes run go file 
 Command to Run GO file >>>> "go run filename.go"
+To Save Output in File >>>>  "go run filename.go > name.txt"
